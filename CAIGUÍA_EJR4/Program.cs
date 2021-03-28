@@ -20,6 +20,7 @@ namespace CAIGUÍA_EJR4
 
             } while (igualdad != "fin");
 
+
         }
     }
 }
